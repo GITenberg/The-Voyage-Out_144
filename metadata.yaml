@@ -1,0 +1,42 @@
+_repo: The-Voyage-Out_144
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Woolf, Virginia
+    aliases:
+    - Woolf, Virginia Stephen
+    - Stephen, Virginia
+    birthdate: 1882
+    deathdate: 1941
+    gutenberg_agent_id: '89'
+    url: http://www.gutenberg.org/2009/agents/89
+    wikipedia: http://en.wikipedia.org/wiki/Virginia_Woolf
+description: "The Voyage Out is the first novel by Virginia Woolf, published in 1915\
+  \ by Duckworth; and published in the US in 1920 by Doran.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '144'
+  wikidata: Q599198
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'British -- South America -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Ocean travel -- Fiction'
+- !lcsh 'Women travelers -- Fiction'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Love stories'
+- GITenberg
+title: The Voyage Out
+url: http://www.gutenberg.org/ebooks/144
+wikipedia:
+- https://fr.wikipedia.org/wiki/La_Travers%C3%A9e_des_apparences
+- https://pt.wikipedia.org/wiki/The_Voyage_Out
+- https://de.wikipedia.org/wiki/The_Voyage_Out
+- https://es.wikipedia.org/wiki/Fin_de_viaje
+- https://en.wikipedia.org/wiki/The_Voyage_Out
+- https://it.wikipedia.org/wiki/La_crociera
